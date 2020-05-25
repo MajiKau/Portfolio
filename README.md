@@ -14,7 +14,7 @@ Runs on Unreal Engine 4.
 
 A VR game that's supposed to let you try out different instruments and help you learn to play them.
 
-I coded the instruments (bass, xylophone and microphone) and some other interactables (tape recorder, metronome, whiteboard and more).
+I coded the instruments (bass, xylophone, bongos and microphone) and some other interactables (tape recorder, metronome, whiteboard and more).
 
 I created many of the 3D models in Blender (bass, xylophone, microphone, whiteboard, piano, tape recorder, metronome and more)
 
