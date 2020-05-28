@@ -49,8 +49,10 @@ Ominaisuuksia:
 
 ## Unity 2D-peli
 
+Neljän hengen kesäprojekti kehitetty Unity-pelimoottorilla.
+
 Peli, jossa pelaaja kerää kaivoksesta materiaaleja, joita käytetään aseen ja työkalujen päivittämiseen.
 
 Kaivos koostuu satunnaisesti asetelluista huoneista, jotka on tehty huone-editorilla. 
 
-Vastasin huone-editorin teosta sekä kaivoksen luomisesta.
+Vastasin huone-editorin teosta, kaivoksen generoinnista sekä osasta käyttöliittymää.
