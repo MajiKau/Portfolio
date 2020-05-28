@@ -4,18 +4,9 @@
 
 <html>
 <body>  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nUWSJ9b5IQo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rUR9yyUJ774" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </body>
 </html>
-<html>
-  <body>
-<video width="320" height="240" controls autoplay loop>
-  <source src="http://mirror.cessen.com/blender.org/peach/trailer/trailer_400p.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video>
-  </body>
-  </html>
-
 
 Neljän hengen VR-projekti Hyötypeli- ja Simulaatioteknologiakursseille.
 
@@ -39,13 +30,11 @@ Lisäksi tein monta 3D-mallia käyttäen Blender-ohjelmistoa:
 - Pöytä ja jakkara
 - Piano
 
-
-
 ## Grafiikkamoottori
 
 ![TEMP](https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif)
 
-3D- sekä 2D-moottori, jonka tein Reaaliaikagrafiikan kurssia varten ja olen hieman kehittänyt vapaa-ajalla.
+3D- sekä 2D-moottori, jonka tein Reaaliaikagrafiikan kurssia varten ja olen hieman myös kehittänyt vapaa-ajallani.
 <html>
  <body>
    <a href="https://github.com/MajiKau/MoosEngine">Linkki GitHubiin</a>
@@ -58,17 +47,10 @@ Ominaisuuksia:
 - Entity browser
 - Portaalit
 
-## Unity cave game
+## Unity 2D-peli
 
-Procedural map generation.
-Level editor.
+Peli, jossa pelaaja kerää kaivoksesta materiaaleja, joita käytetään aseen ja työkalujen päivittämiseen.
 
-## VerkkopeliMUD
+Kaivos koostuu satunnaisesti asetelluista huoneista, jotka on tehty huone-editorilla. 
 
-<html>
-<body>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uCGWIYSrQ-8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</body>
-</html>
-
-UDP? Lag compensation...
+Vastasin huone-editorin teosta sekä kaivoksen luomisesta.
