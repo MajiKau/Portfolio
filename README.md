@@ -32,9 +32,13 @@ Lisäksi tein monta 3D-mallia käyttäen Blender-ohjelmistoa:
 
 ## Grafiikkamoottori
 
-![TEMP](https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif)
+<html>
+<body>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kqXNdKZf6Yc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</body>
+</html>
 
-3D- sekä 2D-moottori, jonka tein Reaaliaikagrafiikan kurssia varten ja olen hieman myös kehittänyt vapaa-ajallani.
+3D/2D-moottori, jonka tein Reaaliaikagrafiikan kurssia varten ja jota olen hieman myös kehittänyt vapaa-ajallani.
 <html>
  <body>
    <a href="https://github.com/MajiKau/MoosEngine">Linkki GitHubiin</a>
@@ -46,6 +50,7 @@ Ominaisuuksia:
 - Yksinkertaiset animaatiot
 - Entity browser
 - Portaalit
+- Quadtree ja Octree
 
 ## Unity 2D-peli
 
