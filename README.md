@@ -47,10 +47,16 @@ Lisäksi tein monta 3D-mallia käyttäen Blender-ohjelmistoa:
 
 Ominaisuuksia:
 - 2D Pathfinding
-- Yksinkertaiset animaatiot
 - Entity browser
+- Yksinkertaisten animaatioiden luonti, tallennus ja lataus.
 - Portaalit
 - Quadtree ja Octree
+
+Renderöinti toteutettu OpenGL:llä
+
+UI toteutettu ImGui:lla.
+
+3D-mallien lataus toteutettu Assimp:lla.
 
 ## Unity 2D-peli
 
