@@ -60,10 +60,16 @@ UI toteutettu ImGui:lla.
 
 ## Unity 2D-peli
 
-Neljän hengen kesäprojekti kehitetty Unity-pelimoottorilla.
+<html>
+<body>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XGaHYd21uMo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</body>
+</html>
+
+Pieni seitsemän hengen kesäprojekti kehitetty Unity-pelimoottorilla.
 
 Peli, jossa pelaaja kerää kaivoksesta materiaaleja, joita käytetään aseen ja työkalujen päivittämiseen.
 
-Kaivos koostuu satunnaisesti asetelluista huoneista, jotka on tehty huone-editorilla. 
+Kaivos koostuu satunnaisesti asetelluista huoneista, jotka ovat tehty huone-editorilla. 
 
-Vastasin huone-editorin teosta, kaivoksen generoinnista sekä osasta käyttöliittymää.
+Vastasin huone-editorin teosta, kaivoksen generoinnista sekä suuresta osasta käyttöliittymää.
