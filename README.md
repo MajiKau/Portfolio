@@ -14,17 +14,17 @@ VR-peli, jonka tarkoituksena on mahdollistaa eri soittimien testaaminen ja opett
 
 Minä vastasin soittimien ja monien muiden interaktiivisten esineiden ohjelmoinnista:
 - Basso
-- Ksylophoni
+- Ksylofoni
 - Bongot
 - Mikrofoni
-- Ääninauhoitin
+- Ääninauhuri
 - Metronomi
 - Valkotaulu
 
 Lisäksi tein monta 3D-mallia käyttäen Blender-ohjelmistoa:
 - Basso
-- Ksylophoni
-- Ääninauhoitin
+- Ksylofoni
+- Ääninauhuri
 - Metronomi
 - Valkotaulu ja kynät
 - Pöytä ja jakkara
